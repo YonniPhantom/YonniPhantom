@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yonniphantom" alt="yonniphantom" /></a> </p>
 
-- 🔭 I’m currently working on **WashTinto**
+- 🔭 I’m currently working on **FactuIA**
 
-- 🌱 I’m currently learning **Git - Github**
+- 🌱 I’m currently learning **Android development with Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://yonniphantom.dev](https://yonniphantom.dev)
 
