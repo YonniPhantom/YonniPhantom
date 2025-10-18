@@ -27,22 +27,22 @@
 ```javascript
 const yonniPhantom = {
     nombre: "YonniPhantom",
-    rol: "Desarrollador Full Stack",
-    experiencia: "6+ años",
-    proyectoActual: "FactuIA",
-    aprendiendo: ["Desarrollo Android", "Kotlin", "IA/ML"],
+    rol: "Desarrollador Full Stack | Web | Móvil",
+    experiencia: "4+ años",
+    proyectoActual: "FactuSmart",
+    aprendiendo: ["Desarrollo Android", "Kotlin"],
     tecnologias: {
         frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
         backend: ["Node.js", "Express", "Python", "Firebase"],
-        movil: ["React Native", "Kotlin", "Android"],
-        herramientas: ["Docker", "Git", "Figma", "VS Code"]
+        movil: ["React Native", "iOS", "Android"],
+        herramientas: ["Postman", "Git", "Figma", "VS Code"]
     },
     datosCuriosos: "Amo la pizza 🍕 y programar a las 3 AM ☕"
 };
 ```
 
-- 🔭 Actualmente trabajando en **FactuIA** - Sistema de facturación con IA
-- 🌱 Aprendiendo **Desarrollo Android con Kotlin** y **Machine Learning**
+- 🔭 Actualmente trabajando en **FactuSmart** - Sistema de facturación con IA
+- 🌱 Aprendiendo **Desarrollo Android con Kotlin**
 - 👨‍💻 Portafolio: **[yonniphantom.dev](https://yonniphantom.dev)**
 - 📫 Contacto: **contact@yonniphantom.dev**
 - ⚡ Dato curioso: **¡La pizza alimenta mi mejor código! 🍕🤤**
@@ -128,39 +128,15 @@ const yonniPhantom = {
 mindmap
   root((YonniPhantom))
     🚀 Proyectos
-      FactuIA
+      FactuSmart
       Sitio Web Portfolio
       Apps Móviles
     📚 Aprendiendo
       Kotlin
-      IA/ML
-      Arquitectura en la Nube
     🎯 Objetivos
-      Código Abierto
       Liderazgo Técnico
       Innovación
 ```
-
-</div>
-
----
-
-## 💼 Proyectos Destacados
-
-<div align="center">
-
-[![FactuIA](https://github-readme-stats.vercel.app/api/pin/?username=yonniphantom&repo=factuia&theme=radical)](https://github.com/yonniphantom/factuia)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=yonniphantom&repo=portfolio&theme=radical)](https://github.com/yonniphantom/portfolio)
-
-</div>
-
----
-
-## 🎵 Playlist de Programación
-
-<div align="center">
-
-[![Spotify](https://novatorem-yonniphantom.vercel.app/api/spotify)](https://open.spotify.com/user/yonniphantom)
 
 </div>
 
