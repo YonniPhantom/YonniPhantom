@@ -2,7 +2,7 @@
 
 # 👻 YonniPhantom
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Desarrollador+de+Apps+Móviles;6%2B+Años+de+Experiencia;Siempre+Aprendiendo+Cosas+Nuevas!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Desarrollador+de+Apps+Móviles;4%2B+Años+de+Experiencia;Siempre+Aprendiendo+Cosas+Nuevas!" alt="Typing SVG" />
 
 ### 💫 Apasionado por la programación, especializado en desarrollo web y móvil
 ### 🎯 Transformando ideas en experiencias digitales
