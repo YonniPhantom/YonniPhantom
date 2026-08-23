@@ -2,20 +2,13 @@
 
 # 👻 YonniPhantom
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Desarrollador+de+Apps+Móviles;4%2B+Años+de+Experiencia;Siempre+Aprendiendo+Cosas+Nuevas!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Desarrollador+de+Apps+Móviles;Siempre+Aprendiendo+Cosas+Nuevas!" alt="Typing SVG" />
 
 ### 💫 Apasionado por la programación, especializado en desarrollo web y móvil
 ### 🎯 Transformando ideas en experiencias digitales
 
 <img src="https://komarev.com/ghpvc/?username=yonniphantom&label=Vistas+del+perfil&color=00d9ff&style=for-the-badge" alt="Vistas del Perfil" />
 
-</div>
-
----
-
-## 🏆 Trofeos de GitHub
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yonniphantom&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Trofeos de GitHub" />
 </div>
 
 ---
@@ -28,12 +21,11 @@
 const yonniPhantom = {
     nombre: "YonniPhantom",
     rol: "Desarrollador Full Stack | Web | Móvil",
-    experiencia: "4+ años",
-    proyectoActual: "FactuSmart",
-    aprendiendo: ["Desarrollo Android", "Kotlin"],
+    experiencia: "2+ años",
+    aprendiendo: ["Springboot"],
     tecnologias: {
         frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Python", "Firebase"],
+        backend: ["Node.js", "Express", "Firebase"],
         movil: ["React Native", "iOS", "Android"],
         herramientas: ["Postman", "Git", "Figma", "VS Code"]
     },
@@ -41,10 +33,10 @@ const yonniPhantom = {
 };
 ```
 
-- 🔭 Actualmente trabajando en **FactuSmart** - Sistema de facturación con IA
-- 🌱 Aprendiendo **Desarrollo Android con Kotlin**
+- 🔭 Actualmente trabajando en **Hoshiah Na App** - App de boletaje digital
+- 🌱 Aprendiendo **Springbootn**
 - 👨‍💻 Portafolio: **[yonniphantom.dev](https://yonniphantom.dev)**
-- 📫 Contacto: **contact@yonniphantom.dev**
+- 📫 Contacto: **jonathan.herrerarob@gmail.com**
 - ⚡ Dato curioso: **¡La pizza alimenta mi mejor código! 🍕🤤**
 
 ---
@@ -54,8 +46,7 @@ const yonniPhantom = {
 <div align="center">
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yonniphantom.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@yonniphantom.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yonniphantom)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.herrerarob@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yonniphantom)
 
 </div>
@@ -79,13 +70,9 @@ const yonniPhantom = {
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 📱 Móvil
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 🗄️ Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -103,23 +90,6 @@ const yonniPhantom = {
 
 ---
 
-## 📊 Analíticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yonniphantom&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonniphantom&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yonniphantom&theme=radical" alt="Racha de GitHub" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yonniphantom&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
----
-
 ## 🎯 Enfoque Actual
 
 <div align="center">
@@ -128,11 +98,11 @@ const yonniPhantom = {
 mindmap
   root((YonniPhantom))
     🚀 Proyectos
-      FactuSmart
+      Hoshiah Na App
       Sitio Web Portfolio
       Apps Móviles
     📚 Aprendiendo
-      Kotlin
+      Springboot
     🎯 Objetivos
       Liderazgo Técnico
       Innovación
