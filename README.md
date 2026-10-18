@@ -6,9 +6,6 @@
 
 ### 💫 Apasionado por la programación, especializado en desarrollo web y móvil
 ### 🎯 Transformando ideas en experiencias digitales
-
-<img src="https://komarev.com/ghpvc/?username=yonniphantom&label=Vistas+del+perfil&color=00d9ff&style=for-the-badge" alt="Vistas del Perfil" />
-
 </div>
 
 ---
@@ -36,7 +33,7 @@ const yonniPhantom = {
 - 🔭 Actualmente trabajando en **Hoshiah Na App** - App de boletaje digital
 - 🌱 Aprendiendo **Springbootn**
 - 👨‍💻 Portafolio: **[yonniphantom.dev](https://yonniphantom.dev)**
-- 📫 Contacto: **jonathan.herrerarob@gmail.com**
+- 📫 Contacto: **contacto@yonniphantom.dev**
 - ⚡ Dato curioso: **¡La pizza alimenta mi mejor código! 🍕🤤**
 
 ---
